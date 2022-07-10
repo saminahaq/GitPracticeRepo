@@ -1,2 +1,3 @@
 this is created by master
-feture-A fro merge confilt practice
+<<<<<<< HEAD
+merge confilt practice, after vimdiff
